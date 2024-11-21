@@ -1,4 +1,4 @@
-# Personal Projects
+# Python Projects
 
 ## Website Downloader
 A Python script using multiple libraries and Beautiful Soup that can help salvage a website by downloading it locally and storing the files in a folder to be accessed in the event your website can no longer be hosted (file in this repository above).
