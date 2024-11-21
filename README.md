@@ -4,7 +4,7 @@
 A Python script that can help salvage a website by downloading it locally and storing the files in a folder to be accessed in the event your website can no longer be hosted.
 
 ### [Website Downloader Demonstration Video](https://youtu.be/VYaGJ1goo28)
-### [Website Downloader Python Script](https://youtu.be/VYaGJ1goo28)
+### [Website Downloader Python Script](https://github.com/armstrongm360/website_downloader)
 
 
 <br />
