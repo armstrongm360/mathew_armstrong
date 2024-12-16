@@ -1,5 +1,9 @@
 # Python Projects
 
+## ML Project (Final project for Fundamentals of ML from Eastern University)(https://github.com/armstrongm360/Final-ML-project-DS-670-)
+Potential employers will need to request access to this. 
+This was the final project for my Foundations in ML course taken at Eastern University as part of my masters degree. It uses ML to try to find predictors for final term performance at a high school. There is an executive summary that explains the project to the principle of the school.
+
 ## Website Downloader
 A Python script using multiple libraries and Beautiful Soup that can help salvage a website by downloading it locally and storing the files in a folder to be accessed in the event your website can no longer be hosted (file in this repository above).
 
@@ -14,5 +18,4 @@ This Python script solves a maze using the curses library for terminal graphics.
 ## Rock, Paper Sissors
 This Python script plays the simple child game, Rock, Paper, Sissors (file named rock paper sissors in repository above).
 <br />
-
 
